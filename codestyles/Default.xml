@@ -2,6 +2,7 @@
   <option name="RIGHT_MARGIN" value="160" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <codeStyleSettings language="JAVA">
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="WRAP_LONG_LINES" value="true" />
   </codeStyleSettings>
 </code_scheme>
