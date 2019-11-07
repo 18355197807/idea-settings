@@ -3,7 +3,7 @@
     <property name="created">2019-11-06T09:21:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2019-11-07T09:58:38</property>
+    <property name="modified">2019-11-07T10:18:07</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
@@ -16,6 +16,24 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="2f8722" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="626262" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="626262" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
