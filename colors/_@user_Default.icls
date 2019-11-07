@@ -3,7 +3,7 @@
     <property name="created">2019-11-06T09:21:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2019-11-06T10:13:44</property>
+    <property name="modified">2019-11-07T09:58:38</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
@@ -21,7 +21,7 @@
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="660e7a" />
       </value>
     </option>
   </attributes>
