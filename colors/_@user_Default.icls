@@ -3,7 +3,7 @@
     <property name="created">2019-11-06T09:21:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2019-11-07T10:18:07</property>
+    <property name="modified">2019-11-20T09:20:55</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
@@ -40,6 +40,12 @@
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="660e7a" />
+      </value>
+    </option>
+    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="909090" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
