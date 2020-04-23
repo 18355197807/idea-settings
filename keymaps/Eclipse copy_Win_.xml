@@ -131,6 +131,9 @@
     <keyboard-shortcut first-keystroke="alt b" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="Maven.ReimportProject">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
